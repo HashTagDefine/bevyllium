@@ -1,0 +1,10 @@
+[package]
+name = "bevyllium"
+version = "0.1.0"
+edition = "2024"
+description = "A game engine ide for bevy!"
+license = "MIT"
+license-file = "./LICENSE"
+repository = "github.com/HashTagDefine/bevyllium"
+
+[dependencies]
