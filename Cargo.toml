@@ -5,6 +5,6 @@ edition = "2024"
 description = "A game engine ide for bevy!"
 license = "MIT"
 license-file = "./LICENSE"
-repository = "github.com/HashTagDefine/bevyllium"
+repository = "https://github.com/HashTagDefine/bevyllium"
 
 [dependencies]
